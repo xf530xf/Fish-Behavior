@@ -4,7 +4,7 @@
 ## Step 1: Clone the Repository
 Clone the project repository to your local machine using:
 ```bash
-git clone https://github.com/siyuanliii/masa.git
+git clone https://github.com/xf530xf/Fish-Behavior.git
 ```
 
 ## Step 2: Create and Activate the Conda Environment
