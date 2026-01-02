@@ -37,7 +37,7 @@ Please refer to [INSTALL.md](docs/install.md)
 </p>
 
 ```bash
-python demo/video_demo_with_text.py demo/minions_rush_out.mp4 --out demo_outputs/minions_rush_out_outputs.mp4 --masa_config configs/masa-gdino/masa_gdino_swinb_inference.py --masa_checkpoint saved_models/masa_models/gdino_masa.pth --texts "yellow_minions" --score-thr 0.2 --unified --show_fps
+python video_demo_with_text.py demo/minions_rush_out.mp4 --out demo_outputs/minions_rush_out_outputs.mp4 --masa_config configs/masa-gdino/masa_gdino_swinb_inference.py --masa_checkpoint saved_models/masa_models/gdino_masa.pth --texts "fish" --score-thr 0.2 --unified --show_fps
 ```
 * `--texts`: the object class you want to track. If there are multiple classes, separate them like this: `"giraffe . lion . zebra"`. Please note that texts option is currently only available for the open-vocabulary detectors.
 * `--out`: the output video path.
