@@ -20,6 +20,9 @@ If you want to train the MASA model, please refer to the [train.md](docs/train.m
 Please refer to [INSTALL.md](docs/install.md)
 
 ## Demo Run
+<p align="center">
+    <img src="./docs/visual.jpg" alt="Image" width="60%"/>
+</p>
 
 ### Preparation
 1. First, create a folder named `saved_models` in the root directory of the project. Then, download the following models and put them in the `saved_models` folder.
