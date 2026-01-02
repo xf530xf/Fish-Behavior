@@ -7,11 +7,6 @@
 ## Introduction
 Monitoring and analyzing fish behaviors is critical for advancing aquaculture management and understanding fish welfare. Traditional methods, such as manual observation and sonar tracking, face significant limitations including inefficiency, low accuracy, and high dependence on experimental conditions. In this paper, we explore the use of the open-world tracking model for fish tracking and behavior analysis based on camera-based observation. We propose a unified framework that integrates fish position extraction and statistical behavior analysis to enable quantitative assessment of fish activities. The framework is validated with real-world fish recordings, where it successfully detects sudden behavioral changes caused by external disturbances. Experimental results demonstrate the potential of our approach to provide robust, scalable, and efficient fish behavior analysis. \textcolor{red}{This work highlights the feasibility of leveraging an open-world tracking model for practical aquaculture monitoring applications.
 
-
-
-## Compare with MASA and evaluate TETA metric
-If you want to compare with MASA and evaluate your own tracker's results on TAO TETA benchmark, Open-vocabulary MOT benchmark and BDD100K MOT and MOTS benchmarks. Please refer to the [TETA repo](https://github.com/siyuanliii/TETA) for quick evaluation.
-
 ## Training
 If you want to train the MASA model, please refer to the [train.md](docs/train.md).
 
