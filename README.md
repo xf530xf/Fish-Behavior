@@ -32,7 +32,7 @@ Please refer to [INSTALL.md](docs/install.md)
 ### Preparation
 1. First, create a folder named `saved_models` in the root directory of the project. Then, download the following models and put them in the `saved_models` folder.
 
-    a). Download the [MASA-GroundingDINO](https://huggingface.co/dereksiyuanli/masa/resolve/main/gdino_masa.pth) and put it in `saved_models/masa_models/gdino_masa.pth` folder.
+    a). Download the https://huggingface.co/dereksiyuanli/masa/resolve/main/gdino_masa.pth and put it in `saved_models/masa_models/gdino_masa.pth` folder.
 
 2. (Optional) Second, download the demo videos and put them in the `demo` folder. 
     We provide two short videos for testing (minions_rush_out.mp4 and giraffe_short.mp4). You can download more demo videos [here](https://drive.google.com/drive/folders/1o3cg_GzGHEoLnBaoqBPvL82yTsVWnXdy?usp=sharing).
