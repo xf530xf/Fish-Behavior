@@ -21,9 +21,14 @@ Please refer to [INSTALL.md](docs/install.md)
 
 ## Demo Run
 <p align="center">
-    <img src="./docs/visual.jpg" alt="Image" width="60%"/>
+    <img src="./docs/framework.jpg" alt="Image" width="60%"/>
 </p>
-
+<p align="center">
+    <img src="./docs/visual1.jpg" alt="Image" width="60%"/>
+</p>
+<p align="center">
+    <img src="./docs/visual2.jpg" alt="Image" width="60%"/>
+</p>
 ### Preparation
 1. First, create a folder named `saved_models` in the root directory of the project. Then, download the following models and put them in the `saved_models` folder.
 
