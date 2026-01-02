@@ -11,7 +11,7 @@ git clone https://github.com/siyuanliii/masa.git
 Navigate to the project directory and create a Conda environment using:
 ```bash
 conda env create -f environment.yml
-conda activate masaenv
+conda activate fish
 ```
 ## Option 1: Automated Installation
 ### Step 3 : Run install_dependencies.sh
